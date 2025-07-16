@@ -1,16 +1,48 @@
-## Hi there 👋
+# 💜 Olá, eu sou a Bia!
+<p align="left">
+ Engenheira de Dados com experiência em arquiteturas modernas na AWS, automações CI/CD, ingestão e vizualçização de dados. <br>
+ Apaixonada por criar soluções escaláveis e seguras que impulsionam decisões de negócio.
+</p>
 
-<!--
-**Trixzbea/Trixzbea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 Graduada em Gestão da Tecnologia da Informação na FATEC
+- 🎓 Cursando Pós Graduação em Engenharia de Software na PUC
+- 📚 Estudando sobre Melhores práticas de governança de dados, Snowflake, automações e CDK
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de dados.
+- ❤️ Eu amo trabalhar tecnologia e principalmente com dados!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trixzbea/Trixzbea/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trixzbea/Trixzbea/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Trixzbea/Trixzbea/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=py,docker,aws)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux)](https://skillicons.dev)
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Trixzbea.Trixzbea&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
+
+<div align="center">
+  
+  [![Beatriz Soares's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Trixzbea&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=Trixzbea&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=Trixzbea&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
