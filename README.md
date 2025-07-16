@@ -40,7 +40,8 @@
   
   [![Beatriz Soares's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Trixzbea&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Trixzbea&theme=omni&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=156)](https://git.io/streak-stats) <br/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Trixzbea&theme=omni&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=156)](https://git.io/streak-stats)
+  
   <img src="https://github-profile-trophy.vercel.app?username=Trixzbea&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
