@@ -1,6 +1,6 @@
 # 💜 Oie, eu sou a Bia!
 <p align="left">
- Engenheira de Dados com experiência em Snowflake, arquiteturas na AWS, automações CI/CD, ingestão e vizualçização de dados. <br>
+ Engenheira de Dados com experiência em Snowflake, arquiteturas na AWS, automações CI/CD, ingestão e visualização de dados. <br>
  Apaixonada por criar soluções escaláveis e seguras que impulsionam decisões de negócio.
 </p>
 
