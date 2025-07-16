@@ -7,9 +7,9 @@
 ## Sobre mim
 
 - 🎓 Graduada em Gestão da Tecnologia da Informação na FATEC
-- 🎓 Cursando Pós Graduação em Engenharia de Software na PUC
+- 🎓 Pós-Graduanda em Engenharia de Software na PUC
 - 📚 Estudando sobre Melhores práticas de governança de dados, Snowflake, automações e CDK
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de dados.
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de dados
 - ❤️ Eu amo trabalhar tecnologia e principalmente com dados!
 
 ---
