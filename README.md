@@ -1,14 +1,13 @@
 # 💜 Oie, eu sou a Bia!
 <p align="left">
- Engenheira de Dados com experiência em Snowflake, arquiteturas na AWS, automações CI/CD, ingestão e visualização de dados. <br>
- Apaixonada por criar soluções escaláveis e seguras que impulsionam decisões de negócio.
+ Engenheira de Dados com experiência em Snowflake, AWS, automações CI/CD, ingestão e visualização de dados. <br>
 </p>
 
 ## Sobre mim
 
 - 🎓 Graduada em Gestão da Tecnologia da Informação na FATEC
-- 🎓 Pós-Graduanda em Engenharia de Software na PUC
-- 📚 Estudando sobre Melhores práticas de governança de dados, Snowflake, automações e CDK
+- 🎓 Pós Graduada em Engenharia de Software na PUC
+- 📚 Estudando sobre governança de dados, Snowflake, automações, AWS e Prefect
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de dados
 - ❤️ Eu amo trabalhar tecnologia e principalmente com dados!
 
