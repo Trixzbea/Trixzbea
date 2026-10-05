@@ -1,13 +1,12 @@
 # 💜 Oie, eu sou a Bia!
 <p align="left">
- Engenheira de Dados com experiência em Snowflake, AWS, automações CI/CD, ingestão e visualização de dados. <br>
+ Engenheira de Dados com experiência em Snowflake, Prefect, dbt, AWS, Automações, GitHub Workflows, ingestão e visualização de dados. <br>
 </p>
 
 ## Sobre mim
 
 - 🎓 Graduada em Gestão da Tecnologia da Informação na FATEC
 - 🎓 Pós Graduada em Engenharia de Software na PUC
-- 📚 Estudando sobre governança de dados, Snowflake, automações, AWS e Prefect
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de dados
 - ❤️ Eu amo trabalhar tecnologia e principalmente com dados!
 
@@ -23,29 +22,11 @@
 ###
 ---
 
-## Tecnologias e linguagens 💻
-
-[![My Skills](https://skillicons.dev/icons?i=py,docker,aws)](https://skillicons.dev)
-
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux)](https://skillicons.dev)
+### 🛠️ Ferramentas, Tecnologias e Linguagens
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux,py,docker,aws)](https://skillicons.dev)
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Trixzbea.Trixzbea&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
-
-<div align="center">
-  
-  [![Beatriz Soares's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Trixzbea&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Trixzbea&theme=omni&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=156)](https://git.io/streak-stats)
-  
-  <img src="https://github-profile-trophy.vercel.app?username=Trixzbea&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
----
 
 <p align="left">
 
